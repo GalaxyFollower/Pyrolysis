@@ -1,0 +1,4 @@
+1. Download simulations files from:
+
+2.extract the contents in the Directory:
+	../Pyrolysis/
